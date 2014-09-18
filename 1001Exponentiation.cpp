@@ -20,7 +20,7 @@ void longmultip(short r[], int n, short a[], short b[], int ka, int kb)
 			a[i] = r[i];
 			r[i] = 0;
 		}
-		}
+	}
 }
 
 int main_1001()
