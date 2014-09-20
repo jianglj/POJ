@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-int main()
+int main1002()
 {
 	string s;
 	int t=0,j=0;
